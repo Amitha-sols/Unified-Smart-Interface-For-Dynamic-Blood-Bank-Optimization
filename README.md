@@ -1,10 +1,12 @@
 Dynamic Blood Bank Optimization is a web app enhancing blood donation, storage, transportation, and donor engagement. Using GPS for real-time location, it optimizes routes, shows nearby blood banks, tracks availability, and ensures swift delivery, reducing delays and saving lives.
+
 Technology Stack: 
 Frontend: HTML, CSS, JavaScript 
 Backend:PHP 
 Database: MySQL
 Development Tool: Integrated Development Environment (IDE): Visual Studio Code
 Geolocation Services: Google Maps, Leaflet.js Library integrated with OpenStreetMap
+
 The Overview Of Web Application:
 Step 1: Login into the System using email id and password or register into the system.
 Step 2:  Go to your dashboard and access various portals like 
